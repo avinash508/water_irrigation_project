@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  padding: 0;
+  line-height: 1.4;
+  background-color: tomato; }
+  body p {
+    margin-bottom: 10px;
+    color: red; }
